@@ -40,3 +40,11 @@
     border: 2px solid hsl(0, 0%, 95%) !important;
     color: hsl(0, 0%, 100%) !important;
 }
+
+.selector-de-texto {
+    user-select: none;
+}
+.selector-de-texto-DR {
+    cursor: default;
+    user-select: none;
+}

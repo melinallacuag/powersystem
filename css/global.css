@@ -1172,7 +1172,7 @@ img{
 	text-align:center;
 	padding: 18px 44px;
 	margin-top: 10px;
-    border-radius: 15px;
+    border-radius: 1rem;
 	display:inline-block;
 	letter-spacing:1px;
 	color: var(--white-color);

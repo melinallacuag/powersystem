@@ -2235,6 +2235,7 @@
 	margin-top:var(--margin-top-10);
 	font-family:var(--font-family-Inter);
 	text-shadow: 3px 3px 10px rgba(0,0,0,0.10);
+	text-align: center;
 }
 
 .slider-two .active .slider-two_heading{
@@ -2284,6 +2285,9 @@
 	-webkit-transition:all 900ms ease;
 	-ms-transition:all 900ms ease;
 	-o-transition:all 900ms ease;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .slider-two .active .slider-two_button-box{
@@ -2855,7 +2859,7 @@
 	position:relative;
 	font-weight:700;
 	font-size:var(--font-20);
-	color:var(--color-thirtyfour);
+	color:var(--black-color);
 	margin-top:var(--margin-top-45);
 	padding-bottom:var(--padding-bottom-15);
 }
@@ -2874,7 +2878,7 @@
 
 .service-block_three-heading a{
 	position:relative;
-	color:var(--color-thirtyfour);
+	color:var(--black-color);
 }
 
 .service-block_three-heading a:hover{
@@ -3474,7 +3478,7 @@
 	bottom:0px;
 	opacity:0.80;
 	background: var(--color-thirtytwo);
-    background: linear-gradient(to top left, rgba(0, 0, 0, 0.596) 0%, rgb(20 239 27) 100%)
+    background: linear-gradient(to top left, rgba(0, 0, 0, 0.596) 0%, rgb(23 26 23) 100%)
 }
 
 .counter-two_heading{
@@ -9186,7 +9190,7 @@
 	justify-content: center;
 	text-align: center;
 	gap: 10px;
-	background: linear-gradient(-45deg, #000000e0 0%, #00d600e6 100%);
+	background: linear-gradient(to top left, rgba(0, 0, 0, 0.596) 0%, rgb(17, 39, 17) 100%);
 	color: #ffffff;
 	padding: 30px;
 	line-height: 1.5;

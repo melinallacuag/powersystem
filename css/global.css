@@ -1291,6 +1291,7 @@ img{
 	background: var(--color-thirtytwo);
 	font-family:var(--font-family-FiraSans);
     background:#3AD100;
+	align-content: center;
 }
 
 .btn-style-three:before{

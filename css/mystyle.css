@@ -1,7 +1,7 @@
 .color-text{
     color:  #3b3b3b !important;
     font-weight: 600;
-    font-size: 12px;
+    font-size: 11px;
     font-family: var(--font-family-Inter);
 }
 .btn {
@@ -47,4 +47,22 @@
 .selector-de-texto-DR {
     cursor: default;
     user-select: none;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.font-weight-900{
+    user-select: none;
+    font-weight: 900;
+}
+
+.separacion-icon{
+    padding-left: 5px;
+    padding-right: 5px;
 }

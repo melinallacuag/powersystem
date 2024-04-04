@@ -6,7 +6,7 @@
 	//Hide Loading Box (Preloader)
 	function handlePreloader() {
 		if($('.preloader').length){
-			$('.preloader').delay(200).fadeOut(500);
+			$('.preloader').delay(200).fadeOut(200);
 		}
 	}
 	
@@ -22,10 +22,10 @@
 			var HeaderHight = $('.main-header').height();
 			if (windowpos >= HeaderHight) {
 				siteHeader.addClass('fixed-header');
-				scrollLink.fadeIn(300);
+				scrollLink.fadeIn(50);
 			} else {
 				siteHeader.removeClass('fixed-header');
-				scrollLink.fadeOut(300);
+				scrollLink.fadeOut(50);
 			}
 			
 		}

@@ -693,6 +693,18 @@
 		justify-content: center;
 		flex-direction: column;
 	}
+
+	.aligns_items{
+		text-align: center;
+	}
+
+	.icon{
+		left: 50px !important;
+	}
+
+	h4:before{
+		left: 70px !important; 
+	}
 	
 }
 
@@ -934,6 +946,17 @@
 		align-items: center;
 		justify-content: center;
 	}
+	.aligns_items{
+		text-align: center;
+	}
+
+	.icon{
+		left: 50px !important;
+	}
+
+	h4:before{
+		left: 70px !important; 
+	}
 	
 }
 
@@ -1088,6 +1111,18 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
+	}
+
+	.aligns_items{
+		text-align: center;
+	}
+
+	.icon{
+		left: 50px !important;
+	}
+
+	h4:before{
+		left: 70px !important; 
 	}
 	
 }
@@ -1363,6 +1398,18 @@
 
 	.pattern-two{
 		top: 900px !important;
+	}
+
+	.aligns_items{
+		text-align: center;
+	}
+
+	.icon{
+		left: 50px !important;
+	}
+	
+	h4:before{
+		left: 70px !important; 
 	}
 	
 }

@@ -66,3 +66,20 @@
     padding-left: 5px;
     padding-right: 5px;
 }
+
+.mapa-border{
+    border-radius: 2rem;
+}
+
+.aligm_footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.aligm_img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

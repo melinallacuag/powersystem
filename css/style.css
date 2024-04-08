@@ -389,6 +389,7 @@
 }
 
 .about-one_detail{
+	border-radius: 40px 0px 0px 40px;
 	position:relative;
 	font-weight:700;
 	text-align:center;
@@ -564,12 +565,13 @@
 }
 
 .about-one_award{
+	border: 0.2rem solid #3ace00;
 	position:absolute;
 	left:20px;
 	right:20px;
 	bottom:-99px;
 	padding:25px 20px;
-	border-radius:20px 20px 0px 0px;
+	border-radius:20px 20px 20px 0px;
 	background-color:var(--white-color);
 	box-shadow:0px 10px 15px rgba(0,0,0,0.10);
 }

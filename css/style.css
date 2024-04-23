@@ -7357,12 +7357,12 @@
 
 .sidebar-page-container{
 	position:relative;
-	padding:110px 0px 80px;
+	padding:50px 0px;
 }
 
 .sidebar-page-container .content-side,
 .sidebar-page-container .sidebar-side{
-	margin-bottom:var(--margin-bottom-30);
+	margin-bottom:var(--margin-bottom-15);
 }
 
 .sidebar-page-container .sidebar-inner{

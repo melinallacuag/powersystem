@@ -705,6 +705,18 @@
 	h4:before{
 		left: 70px !important; 
 	}
+
+	.center{
+		text-align: center;
+		display: flex;
+		justify-content: center !important;
+		align-items: center !important;
+	}
+
+	.center-txt{
+		text-align: center;
+	}
+	
 	
 }
 
@@ -957,6 +969,17 @@
 	h4:before{
 		left: 70px !important; 
 	}
+
+	.center{
+		text-align: center;
+		display: flex;
+		justify-content: center !important;
+		align-items: center !important;
+	}
+
+	.center-txt{
+		text-align: center;
+	}
 	
 }
 
@@ -1123,6 +1146,17 @@
 
 	h4:before{
 		left: 70px !important; 
+	}
+	
+	.center{
+		text-align: center;
+		display: flex;
+		justify-content: center !important;
+		align-items: center !important;
+	}
+
+	.center-txt{
+		text-align: center;
 	}
 	
 }
@@ -1411,5 +1445,15 @@
 	h4:before{
 		left: 70px !important; 
 	}
+
+	.center{
+		text-align: center;
+		display: flex;
+		justify-content: center !important;
+		align-items: center !important;
+	}
 	
+	.center-txt{
+		text-align: center;
+	}
 }

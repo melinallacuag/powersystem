@@ -83,3 +83,69 @@
     align-items: center;
     justify-content: center;
 }
+
+.content-contact{
+    display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 1.5rem;
+}
+
+.text-contect{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.border-input{
+    border-radius: 0.85rem;
+    border: 1px solid #1aa7008f;
+    height: 50px;
+}
+
+.text-colors{
+    color: #fff;
+   font-size: 1rem;
+   letter-spacing: 0.06rem;
+}
+/**
+.card {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .card-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6); 
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    transition: opacity 0.3s; 
+    opacity: 0; 
+  }
+  
+  .card:hover .card-overlay {
+    opacity: 1; 
+  }
+  
+  .card-title {
+    margin: 0;
+    font-size: 20px;
+  }
+  
+  .card-description {
+    margin: 5px 0 0;
+    font-size: 14px;
+  }**/

@@ -1196,6 +1196,7 @@
 		text-align:center;
 		align-items: center;
 		height: 74px;
+		font-size: 0.75rem;
 	}
 	
 	.about-one_detail .play-icon{
@@ -1471,6 +1472,6 @@
 	}
 
 	.position_background{
-		margin-top: -300px;
+		margin-top: -360px;
 	}
 }

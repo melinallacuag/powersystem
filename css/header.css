@@ -396,7 +396,7 @@
 
 .main-header .main-menu .navigation > li > ul{
 	position:absolute;
-	width:16rem;
+	width:20rem;
 	z-index:1;
 	padding:25px 30px 30px 30px;
 	-webkit-transform: scaleY(0);
